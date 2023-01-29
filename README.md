@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png" alt="anilreddypally" /> </p>
+<p align="left"> <img src="https://www.codelivly.com/wp-content/uploads/2023/01/fr.jpg" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilreddypally&label=Profile%20views&color=0e75b6&style=flat" alt="anilreddypally" /> </p>
